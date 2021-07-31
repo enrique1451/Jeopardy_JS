@@ -1,0 +1,42 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+.jeopardy-table thead tr {
+  background-color:#98001F;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  
+}
+
+.jeopardy-table tbody tr {
+  background-color:#009879;
+  color: #ffffff;
+  text-align: center;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+#body-row td {
+  height: 100px;
+  width:10%;
+}
+
+.container {
+  margin-left: 45%;
+  margin-right:45%;
+}
+
+.spinner-grow {
+  width: 10rem; 
+  height: 10rem;
+  margin-left: 45%;
+  margin-right:45%;
+  z-index: 3;
+
+}
